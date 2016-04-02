@@ -1,0 +1,3 @@
+Jesse,Warden,Healer
+Brandy,Fortune,Mage
+Cow,Moo,Fighter
